@@ -1,5 +1,4 @@
-from PyQt6.QtWidgets import QApplication, QMainWindow, QPushButton
-from PyQt6.QtWidgets import QFrame, QHBoxLayout, QComboBox, QLabel
+from PyQt6.QtWidgets import QApplication, QMainWindow, QPushButton, QFrame, QHBoxLayout, QComboBox, QLabel
 from PyQt6.QtGui import QIcon, QFont
 import sys
 import matplotlib.pyplot as plt
