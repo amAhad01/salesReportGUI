@@ -1,0 +1,5 @@
+{
+    "dataworkspace.excludedProjects": [
+        "sqltest/sqltest.sqlproj"
+    ]
+}
